@@ -4,6 +4,7 @@ This year, School of AI Algiers organizes the first edition of AI Day where part
 Inspired by [Udacity's Introduction to deep learning with pytorch](https://github.com/udacity/deep-learning-v2-pytorch).
 ## Folder Structure
 * intro_CNNs.ipynb: first part of the workshop.
+* CIFAR10.ipynb: building a CIFAR10 image classifier using CNNs.
 * Style_transfer.ipynb: second part of the workshop where we build the style transfer model.
 ## Requirements
 * Anaconda : Check out their website : https://docs.anaconda.com/anaconda/install/
