@@ -1,5 +1,5 @@
 # Computer Vision Workshop
-This year, School of AI Algiers organizes the first edition of AI Day where participants can attend a computer vision Workshop. This is the starter repository for all the attendees. The practice part of the workshop will aim to Build a style transfer model using deep CNNs.
+This year, School of AI Algiers has the pleasure to collaborate with WTM Algiers and organize the AI Track during IWD'20. This is the starter repository for all the attendees. The practice part of the workshop will aim to Build a style transfer model using deep CNNs.
 
 Inspired by [Udacity's Introduction to deep learning with pytorch](https://github.com/udacity/deep-learning-v2-pytorch).
 ## Folder Structure
